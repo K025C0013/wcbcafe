@@ -18,6 +18,11 @@ img{
 }
 
 /*レイアウト*/
+.wrapper{
+    max-width: 1120px;
+    margin: auto;
+    padding: 0 1.5rem;
+}
 .align-center{
     text-align: center;
 }
@@ -91,6 +96,9 @@ img{
 .about{
     max-width: 736px;
     padding: 0 1.5rem;
+    margin: 3rem auto 0;
+}
+.about p {
     margin-bottom: 3;
 }
 
